@@ -52,14 +52,14 @@ for (let i = 1; i <= totalPages; i++) {
         <div className="Pokedex_container">
 
             <div className="header_pokedex">            
-            <img className="pokedexname" src="./src/assets/pokedexname1.png" alt="" />
+            <img className="pokedexname" src="../../src/assets/pokedexname1.png" alt="" />
             <img className="pokeball"src="./src/assets/pokeball.png" alt="" />
                 
             </div>
 
             <div className="Pokedex">
             
-            <p className="pokedex_p">  <span>  welcome {userName}</span>, here you can find your favorite pokemon </p>
+            <p className="pokedex_p">  <span>  welcome {userName}</span> here you can find your favorite pokemon </p>
             
             <div className="pokedex_botones">
             <div>
